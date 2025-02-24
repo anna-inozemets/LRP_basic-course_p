@@ -2361,64 +2361,64 @@ filter: hue-rotate(191deg);
 }
 
 .slide--20__bottle.first img {
-  height: 40em;
+  height: 46em;
   margin-top: 0.5em;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
 }
 
 .slide--20__bottle.second img {
-  height: 31em;
+  height: 37em;
   margin-top: 13.5em;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
 }
 
 .slide--20__bottle.third img {
-  height: 30.5em;
+  height: 36.5em;
   left: 0.5em;
   margin-top: 9.5em;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
 }
 
 .slide--20__bottle.fourth img {
-  height: 36em;
+  height: 42em;
   margin-top: 8.5em;
-  margin-bottom: 2.8em;
+  margin-bottom: 0.8em;
 }
 
 .slide--20__bottle.fifth img {
-  height: 31em;
+  height: 37em;
   margin-top: 13.5em;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
 }
 
 .slide--20__bottle.sixth img {
-  height: 26em;
+  height: 32em;
   margin-top: 18.5em;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
 }
 
 .slide--20__bottle.seventh img {
-  height: 33em;
+  height: 39em;
   margin-top: 8.5em;
-  margin-bottom: 1.5em;
+  margin-bottom: -0.5em;
 }
 
 .slide--20__bottle.eight img, .slide--20__bottle.nine img {
-  height: 33em;
+  height: 39em;
   margin-top: 12em;
-  margin-bottom: 2em;
+  margin-bottom: -0.5em;
 }
 
 .slide--20__bottle.ten img {
-  height: 30em;
+  height: 36em;
   margin-top: 10em;
-  margin-bottom: 2.5em;
+  margin-bottom: 0.2em;
 }
 
 .slide--20__bottle.eleven img {
-  height: 27em;
+  height: 33em;
   margin-top: 13em;
-  margin-bottom: 2.4em;
+  margin-bottom: 0.2em;
 }
 /*#endregion sl20*/
 
@@ -3529,6 +3529,7 @@ filter: hue-rotate(191deg);
   font-size: 8.3em;
   line-height: 1.1em;
   margin-bottom: 0.2em;
+  text-transform: uppercase;
 }
 .slide--30__left h3 {
   font-size: 4.2em;
