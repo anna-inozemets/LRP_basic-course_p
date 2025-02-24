@@ -137,12 +137,11 @@ p.slide-numbering.left {
   right: 5.5em;
   height: 9.8em;
   width: 15em;
-  max-width: max-content;
-  min-width: max-content;
   z-index: 2;
 }
 .logo img {
-  max-width: 100%;
+  height: 9.8em;
+  width: 15em;
 }
 .logo.orange {
 filter: hue-rotate(191deg);
@@ -473,10 +472,13 @@ filter: hue-rotate(191deg);
   left: 50%;
   transform: translateX(calc(-42%));
   height: 90em;
+  width: max-content;
+}
+.slide--5__bottle img {
+  width: max-content;
 }
 .slide--5__block {
   height: 100vh;
-  max-height: -webkit-fill-available;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
