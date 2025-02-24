@@ -136,12 +136,12 @@ p.slide-numbering.left {
   top: 4em;
   right: 5.5em;
   height: 9.8em;
-  width: 15em;
+  width: 45em;
   z-index: 2;
 }
 .logo img {
   height: 9.8em;
-  width: 15em;
+  width: 45em;
 }
 .logo.orange {
 filter: hue-rotate(191deg);
