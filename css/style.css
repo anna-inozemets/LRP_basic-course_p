@@ -1223,14 +1223,16 @@ filter: hue-rotate(191deg);
   position: relative;
   left: 1em;
   height: 41em;
-  max-width: unset;
-  width: max-content;
+  max-width: 14em;
+  width: 14em;
   margin-left: auto;
   margin-right: auto;
   margin-top: 4em;
 }
 .slide--12__bottle.fourth img {
   height: 33em;
+  width: 16em;
+  max-width: 16em;
   margin-top: 12.2em;
 }
 .slide--12__bottle.sixth img {
@@ -1241,6 +1243,8 @@ filter: hue-rotate(191deg);
 }
 .slide--12__bottle.nineth img {
   height: 28em;
+  width: 15em;
+  max-width: 15em;
   left: 0;
   margin-top: 16em;
   margin-bottom: 1em;
