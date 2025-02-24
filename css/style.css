@@ -472,10 +472,7 @@ filter: hue-rotate(191deg);
   left: 50%;
   transform: translateX(calc(-42%));
   height: 90em;
-  width: max-content;
-}
-.slide--5__bottle img {
-  width: max-content;
+  width: 25em;
 }
 .slide--5__block {
   height: 100vh;
@@ -1037,6 +1034,7 @@ filter: hue-rotate(191deg);
   left: 50%;
   transform: translateX(-50%);
   height: 93em;
+  width: 28.5em;
 }
 
 .slide--11__left {
@@ -1275,6 +1273,7 @@ filter: hue-rotate(191deg);
   left: 50%;
   transform: translateX(-50%);
   height: 94em;
+  width: 37em;
 }
 
 .slide--13__left {
@@ -1558,6 +1557,7 @@ filter: hue-rotate(191deg);
   left: 50%;
   transform: translateX(-50%);
   height: 90em;
+  width: 35em;
 }
 
 .slide--15__left {
@@ -1579,7 +1579,7 @@ filter: hue-rotate(191deg);
 }
 .slide--15__left-content > img {
   height: 8em;
-  width: max-content;
+  width: 31em;
   margin-bottom: 4em;
 }
 .slide--15__left h2 {
@@ -1917,6 +1917,7 @@ filter: hue-rotate(191deg);
   top: 11em;
   right: 85em;
   height: 90em;
+  width: 24em;
   z-index: 1;
 }
 
@@ -2060,8 +2061,8 @@ filter: hue-rotate(191deg);
 .slide--18__right-part img.main {
   height: 30em;
   margin-bottom: 3em;
-  width: max-content;
-  min-width: max-content;
+  width: 30em;
+  min-width: 30em;
   position: relative;
   left: -2em;
 }
@@ -2073,7 +2074,7 @@ filter: hue-rotate(191deg);
 }
 .slide--18__right-block img {
   height: 13em;
-  width: max-content;
+  width: 13em;
   margin: 0 auto 1.5em;
 }
 .slide--18__right-block p {
@@ -2099,6 +2100,7 @@ filter: hue-rotate(191deg);
   left: 50%;
   transform: translateX(-34%);
   height: 90em;
+  width: 25em;
 }
 
 .slide--19__left {
@@ -2120,7 +2122,7 @@ filter: hue-rotate(191deg);
 }
 .slide--19__left-content > img {
   height: 8em;
-  width: max-content;
+  width: 32em;
   margin-bottom: 2em;
   margin-left: 2em;
 }
@@ -2158,7 +2160,7 @@ filter: hue-rotate(191deg);
 }
 .slide--19__left-block img {
   height: 12em;
-  width: max-content;
+  width: 12em;
 }
 .slide--19__left ul {
   margin-top: 4em;
@@ -2210,7 +2212,7 @@ filter: hue-rotate(191deg);
 .slide--19__right img.test {
   height: 22em;
   margin-left: 4em;
-  width: max-content;
+  width: 22em;
   margin-bottom: 6em;
 }
 .slide--19__right h3 {
@@ -2449,6 +2451,7 @@ filter: hue-rotate(191deg);
   left: 50%;
   transform: translateX(-18%);
   height: 75em;
+  width: 35em;
   z-index: 2;
 }
 
@@ -2502,7 +2505,7 @@ filter: hue-rotate(191deg);
 }
 .slide--21__left-block img {
   height: 14em;
-  width: max-content;
+  width: 14em;
 }
 
 .slide--21__left .line {
@@ -2524,7 +2527,7 @@ filter: hue-rotate(191deg);
 }
 .slide--21__icon img {
   width: 15em;
-  height: max-content;
+  height: 15em;
   margin: 0 auto 1.5em;
 }
 .slide--21__icon p {
@@ -2554,7 +2557,7 @@ filter: hue-rotate(191deg);
 .slide--21__right img.formula {
   position: absolute;
   height: 10em;
-  width: max-content;
+  width: 41em;
   right: 7em;
   bottom: 3.5em;
 }
